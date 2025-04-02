@@ -9,4 +9,4 @@ version = "0.1.0"
 libc = "0.2.109"
 pyo3.default-features = false
 pyo3.features = ["auto-initialize"]
-pyo3.version = "0.15.1"
+pyo3.version = "0.24.1"
